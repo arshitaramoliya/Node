@@ -3,5 +3,9 @@
 //     console.log("hello,",i);
 // }
 // console.log("bye!");
+let args = process.argv;
+for(let i=0;i<args.length;i++){
+    console.log("hello & welcome  to",args[i]);
+}
 
-console.log(process.argv);
+
