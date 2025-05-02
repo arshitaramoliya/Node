@@ -7,8 +7,9 @@
 // for(let i=0;i<args.length;i++){
 //     console.log("hello & welcome  to",args[i]);
 // }
-const math = require("./math");
-const someValue = require("./math");
-console.log(math.sum(2,2));
+// const math = require("./math");
+// const someValue = require("./math");
+// console.log(math.sum(2,2));
 
-
+const info =require("./Fruits");
+console.log(info);
