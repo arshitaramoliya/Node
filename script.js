@@ -7,8 +7,8 @@
 // for(let i=0;i<args.length;i++){
 //     console.log("hello & welcome  to",args[i]);
 // }
-const obj = require("./math");
+const math = require("./math");
 const someValue = require("./math");
-console.log(obj);
+console.log(math);
 
 
