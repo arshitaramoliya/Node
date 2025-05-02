@@ -11,5 +11,9 @@
 // const someValue = require("./math");
 // console.log(math.sum(2,2));
 
-const info =require("./Fruits");
-console.log(info);
+// const info =require("./Fruits");
+// console.log(info);
+
+import {sum ,PI} from "./math.js";
+console.log(sum(1,2));
+
