@@ -9,6 +9,6 @@
 // }
 const math = require("./math");
 const someValue = require("./math");
-console.log(math);
+console.log(math.sum(2,2));
 
 
